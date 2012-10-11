@@ -1,6 +1,6 @@
 name = Jack standaard
 description = basic install profile
-core = 3.x
+core = 7.x
 
 ;this is used to enable the modules
 
@@ -52,5 +52,3 @@ dependencies[] = taxonomy_csv
 dependencies[] = wysiwyg
 dependencies[] = views
 dependencies[] = views_ui
-dependencies[] = bartik
-dependencies[] = seven
