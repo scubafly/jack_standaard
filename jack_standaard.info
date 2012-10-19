@@ -1,5 +1,6 @@
 name = Jack standaard
 description = basic install profile
+version = "7.x-0.1"
 core = 7.x
 
 ;this is used to enable the modules
